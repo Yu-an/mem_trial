@@ -1,0 +1,28 @@
+---
+title: "Multi-level Regression Course"
+output: html_notebook
+---
+This is notes from Scott's Fall 2019 10-week course on Mixed Effect Models.
+
+General approach:
+- Most data analysis depends on a model of data
+-- Structure: what variables/relations
+-- Parameters: what are the values of those relationships
+
+Simulating data
+- Force you to think about data generating model
+
+MEM (Mixed effect models)
+- really good with unbalanced data 
+
+
+```{r}
+library(tidyverse)
+
+#use Cmd+Alt+I to add new chunks
+```
+
+```{r}
+
+```
+
